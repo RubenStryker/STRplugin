@@ -1,0 +1,13 @@
+name: StrykerDevStart
+main: stryker.start.codeplugin.main
+version: 1.0
+api-version: 1.13
+author: Ruben Barrionuevo
+
+commands:
+   ladrillos:
+      description: Consigue ladrillos
+      usage: /ladrillos
+   diamond:
+      description: Consigue diamantes
+      usage: /diamantes
